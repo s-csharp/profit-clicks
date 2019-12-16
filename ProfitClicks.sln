@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProfitClicksHelpers", "ProfitClicksHelpers\ProfitClicksHelpers.csproj", "{C74C2E70-376A-491B-BCF1-F284B29FCD00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProfitClicksTests", "ProfitClicksTests\ProfitClicksTests.csproj", "{C704C031-6529-4603-A826-02A5B02AB79D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C74C2E70-376A-491B-BCF1-F284B29FCD00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C74C2E70-376A-491B-BCF1-F284B29FCD00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C74C2E70-376A-491B-BCF1-F284B29FCD00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C74C2E70-376A-491B-BCF1-F284B29FCD00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C704C031-6529-4603-A826-02A5B02AB79D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C704C031-6529-4603-A826-02A5B02AB79D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C704C031-6529-4603-A826-02A5B02AB79D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C704C031-6529-4603-A826-02A5B02AB79D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16323E69-F309-4494-86E8-1F9023EC45CD}
+	EndGlobalSection
+EndGlobal
